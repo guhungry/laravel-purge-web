@@ -38,7 +38,7 @@ const Home = props => {
   return (
     <div className="Home">
       <header className="Home-header">
-        <Text h1>Upgrade your React Native apps <span role='img' aria-label='party popper'>🎉</span></Text>
+        <Text h1>Upgrade your Laravel apps <span role='img' aria-label='party popper'>🎉</span></Text>
         <View style={{ flexDirection: 'row' }}>
           <Text>powered by </Text>
           <Text bold>laravel-diff-purge</Text>

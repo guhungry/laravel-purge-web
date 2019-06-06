@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "799157e6974ddac583c1d477a6332aa0",
+    "revision": "e4379289d53e1711be6bb11b6d14e519",
     "url": "/laravel-purge-web/index.html"
   },
   {
-    "revision": "623c6e13202b8534d6ea",
+    "revision": "d088f7f007913258d6e2",
     "url": "/laravel-purge-web/static/css/main.5f88173a.chunk.css"
   },
   {
@@ -12,15 +12,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/laravel-purge-web/static/js/2.77e9144d.chunk.js"
   },
   {
-    "revision": "623c6e13202b8534d6ea",
-    "url": "/laravel-purge-web/static/js/main.4ed4e890.chunk.js"
+    "revision": "d088f7f007913258d6e2",
+    "url": "/laravel-purge-web/static/js/main.92f06fa1.chunk.js"
   },
   {
     "revision": "e6ac1d6545cd1e3b54dc",
     "url": "/laravel-purge-web/static/js/runtime~main.78e5fda3.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/laravel-purge-web/static/media/logo.5d5d9eef.svg"
+    "revision": "4e0902d61007a329a95b9a9e56fd3d7d",
+    "url": "/laravel-purge-web/static/media/logo.4e0902d6.svg"
   }
 ]);

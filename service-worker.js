@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/laravel-purge-web/precache-manifest.64bb4f106a274669cbee0445eef21ba9.js"
+  "/laravel-purge-web/precache-manifest.5902111c2cad90579d165aaf2306d66f.js"
 );
 
 self.addEventListener('message', (event) => {

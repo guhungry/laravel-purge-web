@@ -1,4 +1,4 @@
-https://react-native-community.github.io/purge-web
+https://guhungry.github.io/laravel-purge-web
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

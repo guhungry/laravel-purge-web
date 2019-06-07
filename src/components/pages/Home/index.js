@@ -3,7 +3,7 @@ import { View } from 'react-native-web'
 import * as R from 'ramda'
 import GitHubButton from 'react-github-btn'
 import semver from 'semver'
-// import ReactGA from 'react-ga'
+import ReactGA from 'react-ga'
 
 import logo from '../../../logo.svg'
 import './styles.css'
@@ -31,8 +31,8 @@ const Home = props => {
   }, [])
 
   useEffect(() => {
-    //ReactGA.initialize('UA-136307971-1')
-    //ReactGA.pageview('/')
+    ReactGA.initialize('UA-89094384-2')
+    ReactGA.pageview('/')
   }, [])
 
   return (

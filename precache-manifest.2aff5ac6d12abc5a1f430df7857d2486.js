@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3328a41558141bff2877ded5508e91bc",
+    "revision": "f1e77a42526cefd8b54a4d6901541ba9",
     "url": "/laravel-purge-web/index.html"
   },
   {
